@@ -1,4 +1,4 @@
-# zboommusic
+# zBoomMusic
 Mock Project - Responsive Design
 
 Project consists of the following pages:
